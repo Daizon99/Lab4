@@ -20,7 +20,8 @@
  - utiliser la commande suivante pour compiler et exécuter les cas de test : ``bin/run```.
  - vous devriez obtenir les résultats suivants
 
-   ![image](https://user-images.githubusercontent.com/105554676/175059147-bdc70479-05dc-47ed-b299-8163f0af3201.png)
+   ![175059147-bdc70479-05dc-47ed-b299-8163f0af3201](https://github.com/Daizon99/Lab4/assets/113944271/5b9c1e44-935a-4845-92ac-3e60bb6493bd)
+
 
 
 
