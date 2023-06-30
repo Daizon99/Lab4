@@ -21,3 +21,14 @@
  - vous devriez obtenir les résultats suivants
 
    ![image](https://user-images.githubusercontent.com/105554676/175059147-bdc70479-05dc-47ed-b299-8163f0af3201.png)
+
+
+
+   ## Partie 1 : Implémentation de FizzBuzz.java
+
+   ![image](https://user-images.githubusercontent.com/105554676/175054377-e0710b75-5b66-495b-b1a8-5bd4536e1fa6.png)
+
+
+   ## Partie 2 : Implémentation de FizzBuzzTest.java
+
+   ![image](https://user-images.githubusercontent.com/105554676/175059413-bb24f5df-215d-47a6-800f-a613cb5bac4d.png)
