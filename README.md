@@ -14,7 +14,7 @@
 
 ### Etapes pour invoquer les tests FizzBuzz_java
 
- - Clonez le dépôt en utilisant la commande suivante : ``git clone https://github.com/skyByt/
+ - Clonez le dépôt en utilisant la commande suivante : ``git clone [https://github.com/skyByt/](https://github.com/Daizon99/Lab4/tree/main)
  - Naviguer vers Lab 4/FizzBuzz_java
  - Ouvrez la ligne de commande Git ou PowerShell
  - utiliser la commande suivante pour compiler et exécuter les cas de test : ``bin/run```.
