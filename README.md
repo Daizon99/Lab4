@@ -5,3 +5,8 @@
 | Date | Summer 2023 |
 | Professor | Mohamed Ali Ibrahim |
 | TA | Abonasara Joseph / Kasumba Joseph | 
+
+# Lab 4
+### Conditions : 
+     -Java JDK 8 ou supérieur
+     -Ligne de commande Git ou PowerShell pour les utilisateurs Windows
